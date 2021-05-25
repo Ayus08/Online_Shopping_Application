@@ -28,6 +28,7 @@ public class Main {
         // for image
        // JLabel  backimg1 = new JLabel(new ImageIcon("E:\\LoginPage\\src\\mycompany\\com\\backImage.png"));
        // backimg1.setBounds(0,0,1500,1080);
+       //Sanidhya Dave
         JLabel username = new JLabel("Email Id ");
         username.setBounds(100, 100, 100, 30);
         username1 = new JTextField();
